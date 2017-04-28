@@ -1,4 +1,5 @@
 /.idea
+/spring-webshocket.iml
 *.imi
 ### Java template
 *.class
